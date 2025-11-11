@@ -102,7 +102,7 @@ SELECT * FROM DWH.GOLD.FACT_SALES LIMIT 10;
 
 ## 📁 Project Structure
 ```plaintext
-Snowflake-Data-Warehouse-Pipeline-Automated-with-Streams-Tasks-Snowpipe/
+Automated Snowflake Data Pipeline with Medallion Architecture/
 ├── 📂 1_infrastructure/          # Core Snowflake setup
 │   ├── 01_warehouse.sql
 │   ├── 02_database.sql

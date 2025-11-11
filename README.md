@@ -1,4 +1,4 @@
-# Snowflake-Data-Warehouse-Pipeline-Automated-with-Streams-Tasks-Snowpipe
+# Automated Snowflake Data Pipeline with Medallion Architecture
 ![Snowflake](https://img.shields.io/badge/Snowflake-Data%20Platform-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS%20S3-Object%20Storage-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 ![AWS IAM](https://img.shields.io/badge/AWS%20IAM-Access%20Control-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
